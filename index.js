@@ -7,7 +7,7 @@ const showMovies = async () => {
       return;
     }
 
-    let url = `http://www.omdbapi.com/?apikey=bf6bb10b&s=${query}`;
+    let url = `https://www.omdbapi.com/?apikey=bf6bb10b&s=${query}`;
 
     let response = await fetch(url);
     
