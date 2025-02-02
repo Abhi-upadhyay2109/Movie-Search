@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <title>Movie Search Web</title>
+</head>
+<body>
+  <div id="main">
+    <div class="navbar">
+        <div class="nav-logo border">
+            <div class="logo"></div>
+        </div>
+        <div class="nav-search">
+            <input type="search" placeholder="Search movie name ?" class="search-bar border" id="searchBox">
+            <div>
+              <button class="border" style="background-color: rgb(100, 230, 206);" onclick="showMovies()">Search</button>
+          </div>
+        </div>
+        
+        
+        
+    </div>
+
+    <div class="panel-ops" id="panelOps">
+        <p class="border">HOME</p>
+        <p class="border">MOVIES</p>
+        <p class="border">GENRE</p>
+        <p class="border">YEAR</p>
+        <p class="border">OTT</p>
+        <p class="border">WEB SERIES</p>
+        <p class="border">SERIES GENRE</p>
+    </div>
+  </div>
+
+  <div id="container"></div>
+</body>
+<script src="index.js"></script>
+</html>
