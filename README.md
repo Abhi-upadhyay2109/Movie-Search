@@ -1,5 +1,8 @@
 # Movie Search Web
 
+## Deployment Link
+[Movie Search Web](https://movie-search03.netlify.app/)
+
 ## Features
 - Search for movies using the OMDB API.
 - Display movie title, release year, IMDb ID, and poster.
@@ -51,5 +54,4 @@ Feel free to contribute by submitting pull requests or reporting issues.
 This project is licensed under the MIT License.
 
 ## Author
-Abhishek Upadhyay - Movie Search Web 🚀
-
+[Abhishek Upadhyay] - Movie Search Web 🚀
