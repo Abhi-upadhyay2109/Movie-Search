@@ -19,7 +19,7 @@ Ensure you have a modern web browser installed.
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/movie-search-web.git
+   git clone https://github.com/Abhi-upadhyay2109/Movie-Search.git
    ```
 2. Navigate to the project folder:
    ```sh
